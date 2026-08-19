@@ -1,0 +1,10 @@
+{
+  "name": "浙江大学戏剧影视336学习台",
+  "short_name": "336学习台",
+  "description": "浙江大学戏剧影视336考研专属学习台",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8ea",
+  "theme_color": "#e89b5c",
+  "icons": [{"src":"./app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
